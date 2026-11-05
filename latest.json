@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFNqUWQ1TmJCKy96TVZvWkV5a0tRS0NQRFEwN1FwaFU4NlNVQWNyYmwxR0J6aElsZko1SVZGeTdzS2ZtNGt2ZUNNdmhyTXNHcE4xaXZYalAzUWJleFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgzMTcwCWZpbGU6U3RlYW1pbGFlXzAuNC4wX3g2NC1zZXR1cC5leGUKemFpd2ljVjFyODVJeHNlZFVTZDlOTGxPWDV3ZU9JZW43M01DKzFRYks2L1REOGhzbDR2ZDBUendTbGRHWHNWQldBREVaK2VTaG5oRExwd2hraCsrREE9PQo=",
-      "url": "https://github.com/yohgaz/steamilae-versions/releases/download/v0.4.0/Steamilae_0.4.0_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.0/Steamilae_0.4.0_x64-setup.exe"
     }
   }
 }
