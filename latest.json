@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Connexion refaite : sur la vraie page de Steam, comme Playnite. Plus d'imitation de l'appli mobile.",
-  "pub_date": "2026-11-08T20:17:20Z",
+  "version": "0.4.2",
+  "notes": "Connexion corrigée (plus de page noire ni de boutique injoignable) et réglages façon maquette.",
+  "pub_date": "2026-11-08T20:41:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGV4akVFcGdRV1BJVWFaYm5ZODNDc1FPZ0FDckF5ejhhOC8xelV1a0NFNWUxVXdhVy9DUEgyODRjTnZ4Q1phcjAzT2J4SHFucFF4amFISkg0NDRtMndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5MDQwCWZpbGU6U3RlYW1pbGFlXzAuNC4xX3g2NC1zZXR1cC5leGUKdzFHY2RCVUkycS9xZzVXU3N1aXRzc3hlb1B1SGh3R0ZXUGN5WnFKaHR5Wk5rVHNQYzdTMFNGWkxuVWdteHI2RWx5QjJQdTdpa0luVGlYbkxwR3VmQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.1/Steamilae_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFNmU1BuUG9JRmxKMTZkY0dSWDRtS3BoWjY4Y3BOMmovd2tVR3hZRzMydW5ZbjRrWm5jVWNDZ3JyazF4M1U0OHF3ckdNZkdmbzNXWEo0Vk9iUGtrVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcwNTA5CWZpbGU6U3RlYW1pbGFlXzAuNC4yX3g2NC1zZXR1cC5leGUKcWlxT01wSWpDUFdoQmdYSExMb0p2a0tNbDdQWWEzczVvZmg2OTlvK1JpeWZEWmpLM3h6SVR5UVFTVldVRHZTTDVsbzBFbVM4TGczMVE5eWZER2d4RHc9PQo=",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.2/Steamilae_0.4.2_x64-setup.exe"
     }
   }
 }
