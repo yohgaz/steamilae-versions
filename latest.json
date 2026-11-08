@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Alertes de succès du dépôt ffxiv-overlay-wpf, réglages des notifications, page Jeu et profil de la maquette, clé Web API facultative, mises à jour automatiques.",
-  "pub_date": "2026-11-05T12:53:02Z",
+  "version": "0.4.1",
+  "notes": "Connexion refaite : sur la vraie page de Steam, comme Playnite. Plus d'imitation de l'appli mobile.",
+  "pub_date": "2026-11-08T20:17:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFNqUWQ1TmJCKy96TVZvWkV5a0tRS0NQRFEwN1FwaFU4NlNVQWNyYmwxR0J6aElsZko1SVZGeTdzS2ZtNGt2ZUNNdmhyTXNHcE4xaXZYalAzUWJleFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgzMTcwCWZpbGU6U3RlYW1pbGFlXzAuNC4wX3g2NC1zZXR1cC5leGUKemFpd2ljVjFyODVJeHNlZFVTZDlOTGxPWDV3ZU9JZW43M01DKzFRYks2L1REOGhzbDR2ZDBUendTbGRHWHNWQldBREVaK2VTaG5oRExwd2hraCsrREE9PQo=",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.0/Steamilae_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGV4akVFcGdRV1BJVWFaYm5ZODNDc1FPZ0FDckF5ejhhOC8xelV1a0NFNWUxVXdhVy9DUEgyODRjTnZ4Q1phcjAzT2J4SHFucFF4amFISkg0NDRtMndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5MDQwCWZpbGU6U3RlYW1pbGFlXzAuNC4xX3g2NC1zZXR1cC5leGUKdzFHY2RCVUkycS9xZzVXU3N1aXRzc3hlb1B1SGh3R0ZXUGN5WnFKaHR5Wk5rVHNQYzdTMFNGWkxuVWdteHI2RWx5QjJQdTdpa0luVGlYbkxwR3VmQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.1/Steamilae_0.4.1_x64-setup.exe"
     }
   }
 }
