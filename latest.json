@@ -1,10 +1,10 @@
 {
   "version": "0.4.5",
   "notes": "Croix de la fenêtre : Steamilaé reste dans la zone de notification (alertes réglables), un seul Steamilaé à la fois, mises à jour publiées automatiquement.",
-  "pub_date": "2026-11-08T22:19:04Z",
+  "pub_date": "2026-11-08T22:44:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdGTWsrejgrMG9aMFBRMDRHcWtaeDhpS0xjRHFMN2VCVFZPK21VREJaN1U1V082NnlaMHpPM2FkQ2xSZUxDTk1rcHhVVzhrYWlHNzF6TnduYmhTWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2MzQ0CWZpbGU6U3RlYW1pbGFlXzAuNC41X3g2NC1zZXR1cC5leGUKRXN6eDlzREhHaGcyS3N6Nk1BWEtjTExjUFVieFBVSTFIME1WU3JVaCszMWpKZG9Sb1dnMTUyZWpTZk9PSkRVZmJVeFoxc0FHYTRabVZUdENVMTU5RFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFRTeDRTeVJKUTNkL2RzcHRMR29ZTGE5V3RnUWgvVHBtUVRlMWhCZ0lTd2loWW4wUWVYMGY5VDYvTDg4ME9rMUtBSWw4aWZqT0RvdmVPWWdBeGFTWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc3ODY4CWZpbGU6U3RlYW1pbGFlXzAuNC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNQpvQUxSOTVnTVZ5VkttT2swMlZJbTJZWC9sZ3hNMGRvUmFDNWt0OFpaZlZSS1pMZEU1dG14c1hIWFJIcEk4UEJXNVZvaC95ZW11dkZndE5yYzZXTkNEQT09Cg==",
       "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.5/Steamilae_0.4.5_x64-setup.exe"
     }
   }
