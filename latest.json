@@ -1,11 +1,11 @@
 {
-  "version": "0.4.5",
-  "notes": "Croix de la fenêtre : Steamilaé reste dans la zone de notification (alertes réglables), un seul Steamilaé à la fois, mises à jour publiées automatiquement.",
-  "pub_date": "2026-11-08T22:44:39Z",
+  "version": "0.4.6",
+  "notes": "Pendant une partie lancée depuis Steam, Steamilaé revient sous le jeu pour afficher ses alertes ; tes propres notes (avec cases à cocher) mieux séparées de celles de Steam dans l'overlay.",
+  "pub_date": "2026-11-08T22:55:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFRTeDRTeVJKUTNkL2RzcHRMR29ZTGE5V3RnUWgvVHBtUVRlMWhCZ0lTd2loWW4wUWVYMGY5VDYvTDg4ME9rMUtBSWw4aWZqT0RvdmVPWWdBeGFTWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc3ODY4CWZpbGU6U3RlYW1pbGFlXzAuNC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNQpvQUxSOTVnTVZ5VkttT2swMlZJbTJZWC9sZ3hNMGRvUmFDNWt0OFpaZlZSS1pMZEU1dG14c1hIWFJIcEk4UEJXNVZvaC95ZW11dkZndE5yYzZXTkNEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.5/Steamilae_0.4.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZWWGZPeTNmN3hrTmNRQlBMS25GaU1HdUE3S2Z3UWpZM1p1UnUwaU1lTHNVQnhUTFB6QnA1dE1WYkYxTm5EazU5emJTQ3IyRzJicXhNMm5XdVBpNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc4NTI4CWZpbGU6U3RlYW1pbGFlXzAuNC42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNgpzZCtTemhoSmlhY0lDR2U2YUthbU54NUg0K3A1bDFnWThGa3NOTVdGaDRFZ2xwV2F2OFRONCsvWGF2dDRsMVo0L2Y1aFZDU2JxaHhKNFlGRGxJeEVCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.6/Steamilae_0.4.6_x64-setup.exe"
     }
   }
 }
