@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Connexion corrigée (plus de page noire ni de boutique injoignable) et réglages façon maquette.",
-  "pub_date": "2026-11-08T20:41:50Z",
+  "version": "0.4.3",
+  "notes": "Vitrine du profil à la largeur de l'écran avec les DLC à 100 %, lancement des jeux au premier plan.",
+  "pub_date": "2026-11-08T21:03:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFNmU1BuUG9JRmxKMTZkY0dSWDRtS3BoWjY4Y3BOMmovd2tVR3hZRzMydW5ZbjRrWm5jVWNDZ3JyazF4M1U0OHF3ckdNZkdmbzNXWEo0Vk9iUGtrVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcwNTA5CWZpbGU6U3RlYW1pbGFlXzAuNC4yX3g2NC1zZXR1cC5leGUKcWlxT01wSWpDUFdoQmdYSExMb0p2a0tNbDdQWWEzczVvZmg2OTlvK1JpeWZEWmpLM3h6SVR5UVFTVldVRHZTTDVsbzBFbVM4TGczMVE5eWZER2d4RHc9PQo=",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.2/Steamilae_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpWRWNVZGg3TVBBRG5rTW9LR1paQUVyUkVUNk1TbFdnc2VrcnFsL2FoM0lTeFI1aFNXWjcrR3RGVjNZL0c4MjMxR0xIay9paE9PMW1Wd0p3RW4zbEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcxODM0CWZpbGU6U3RlYW1pbGFlXzAuNC4zX3g2NC1zZXR1cC5leGUKRHlDekkvbm9pREY5R3VSV0h3WnBPaEpZU3VyY0hZN1BLUGRNRVROMmdqT25NL2pZSXVNd1BlSG15Zm9KUXpCTndWL0JVZ3h0dzQ1YzFmY0EzN28xQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.3/Steamilae_0.4.3_x64-setup.exe"
     }
   }
 }
