@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "notes": "Vitrine du profil à la largeur de l'écran avec les DLC à 100 %, lancement des jeux au premier plan.",
-  "pub_date": "2026-11-08T21:03:54Z",
+  "version": "0.4.4",
+  "notes": "Overlay refait comme la maquette (fenêtres déplaçables et épinglables, guides, discussions, performances, notes de Steam), pastille Famille, lancement au démarrage de Windows.",
+  "pub_date": "2026-11-08T21:51:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpWRWNVZGg3TVBBRG5rTW9LR1paQUVyUkVUNk1TbFdnc2VrcnFsL2FoM0lTeFI1aFNXWjcrR3RGVjNZL0c4MjMxR0xIay9paE9PMW1Wd0p3RW4zbEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcxODM0CWZpbGU6U3RlYW1pbGFlXzAuNC4zX3g2NC1zZXR1cC5leGUKRHlDekkvbm9pREY5R3VSV0h3WnBPaEpZU3VyY0hZN1BLUGRNRVROMmdqT25NL2pZSXVNd1BlSG15Zm9KUXpCTndWL0JVZ3h0dzQ1YzFmY0EzN28xQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.3/Steamilae_0.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFM4K3Vsc2pQaTFvQUlGMGdSeTBpcG5HcTUrUDlDY1VSUXdsVFpLYTIvOG4wcGxsNW1BcFQ0T3grTmJ5ZXlHdFBnNDlwSnN5dyt5c1pSbCthMWRQdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc0Njc4CWZpbGU6U3RlYW1pbGFlXzAuNC40X3g2NC1zZXR1cC5leGUKUVRwWnAxYWR5bTB4SUM2bkFqN0ViSDBaNkR1TURxN1ZTMjNEbGg0QS9rMVRQU0JkdU9pKzJUTjFEVVRFU1pzMWtIRGdyeHdZSmo0MlZGMXY0Q2xtQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.4/Steamilae_0.4.4_x64-setup.exe"
     }
   }
 }
