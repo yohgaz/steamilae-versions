@@ -1,11 +1,11 @@
 {
-  "version": "0.4.4",
-  "notes": "Overlay refait comme la maquette (fenêtres déplaçables et épinglables, guides, discussions, performances, notes de Steam), pastille Famille, lancement au démarrage de Windows.",
-  "pub_date": "2026-11-08T21:51:18Z",
+  "version": "0.4.5",
+  "notes": "Croix de la fenêtre : Steamilaé reste dans la zone de notification (alertes réglables), un seul Steamilaé à la fois, mises à jour publiées automatiquement.",
+  "pub_date": "2026-11-08T22:19:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFM4K3Vsc2pQaTFvQUlGMGdSeTBpcG5HcTUrUDlDY1VSUXdsVFpLYTIvOG4wcGxsNW1BcFQ0T3grTmJ5ZXlHdFBnNDlwSnN5dyt5c1pSbCthMWRQdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc0Njc4CWZpbGU6U3RlYW1pbGFlXzAuNC40X3g2NC1zZXR1cC5leGUKUVRwWnAxYWR5bTB4SUM2bkFqN0ViSDBaNkR1TURxN1ZTMjNEbGg0QS9rMVRQU0JkdU9pKzJUTjFEVVRFU1pzMWtIRGdyeHdZSmo0MlZGMXY0Q2xtQ0E9PQo=",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.4/Steamilae_0.4.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdGTWsrejgrMG9aMFBRMDRHcWtaeDhpS0xjRHFMN2VCVFZPK21VREJaN1U1V082NnlaMHpPM2FkQ2xSZUxDTk1rcHhVVzhrYWlHNzF6TnduYmhTWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2MzQ0CWZpbGU6U3RlYW1pbGFlXzAuNC41X3g2NC1zZXR1cC5leGUKRXN6eDlzREhHaGcyS3N6Nk1BWEtjTExjUFVieFBVSTFIME1WU3JVaCszMWpKZG9Sb1dnMTUyZWpTZk9PSkRVZmJVeFoxc0FHYTRabVZUdENVMTU5RFE9PQo=",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.4.5/Steamilae_0.4.5_x64-setup.exe"
     }
   }
 }
