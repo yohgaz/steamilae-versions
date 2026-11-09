@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "L’activité de tes contacts Steam dans Communauté, barre « Jouer » plus compacte, succès en jeu d’ESO et FFXIV avant les actualités.",
-  "pub_date": "2026-11-09T12:13:08Z",
+  "version": "0.6.2",
+  "notes": "Correctifs du lancement : l’écran attend la vraie fenêtre du jeu, et Steamilaé ne passe plus devant le jeu.",
+  "pub_date": "2026-11-09T17:48:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFErU2lERHE4Y1pSK1FMaVdETTBBOStTbHNoaXhQMVpNOEpLSktSeGtWUkNBQnhtbkp5dmwrSS9CcEhxTHBxNHpjWG45c1Bwd2xVdThrSW84bFpsamdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2MzYzCWZpbGU6U3RlYW1pbGFlXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQo2dTl6YkJlbklwbjZnd3FvREl5b0V2OWVrRjlKYnE1MW96enJwbDNhNEJpYmxtQlRNUm5FVjJwWjJWeUt1Vmd1YlptL2tjZ1JESDc1MjBxZ081cW9EZz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.1/Steamilae_0.6.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFVMcXp2NllvZVJSVURqelNqV1QxMXZiMldLK0wxVmpqaU9yZTY3VmgzQ0JyNWdEUTgyalJoMHVsNVl6NTJuS09UOG5Qa3FPVXRDL0l3YzBMZE11bndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ2NDkyCWZpbGU6U3RlYW1pbGFlXzAuNi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMgpqcWRZUlJpOC9CUUxGa1BkSDhGWnFSNVorUDdkM2NFQ3dtVEpRY0JFczBSTU0wamNkZGlsWmJVeElTakIwc2o3ZXpqQkhKT1c3T3NJNXJDcW4zVFZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.2/Steamilae_0.6.2_x64-setup.exe"
     }
   }
 }
