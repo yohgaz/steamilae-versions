@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "Le jeu passe vraiment devant Steamilaé à son lancement.",
-  "pub_date": "2026-11-09T21:04:01Z",
+  "version": "0.6.5",
+  "notes": "Communauté plus vivante : activité de tes contacts en tuiles illustrées, contacts en jeu, chiffres et jeux en vogue.",
+  "pub_date": "2026-11-09T21:32:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFVYanZkTmRPWkpwamtHa1hSQWtGTCtVNU5GSWtRK0tVRzdkWWRDb1E0Y2VEd3M1alR3WlJJVVJtS1ozQk4zQWxITlhmaGp2L2ZETXlrTUFHU1NaaVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4MjE2CWZpbGU6U3RlYW1pbGFlXzAuNi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNApLUC9pYkVmVFNZS012QmtDVFBDZG1hS1JaU1pqUUUwcm5rb3hwYUpZT1BROFdsVUxPOWhyZVhNbnFMSUdHanJ1ZFhmK0Q0SjRtMCtGNlVTbVM4RVJDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.4/Steamilae_0.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFhON3NsRnVBN0FVa1FIVncwYUdIM0tUek5EelVNZkFYZW9tRUwwQ3ZMUjNFdzViZHZ2M1ZkdEhvV3R5ejA0bkk1dktjaVZDQi9yMVFMLzgrTUw4d1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU5OTMwCWZpbGU6U3RlYW1pbGFlXzAuNi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNQphajNQNW1pcEs0VWdEUnNTOGQzQTZScENkV2VTOXlYVEpiSW16UGRHQUU5bVVaOXZIbUZCa0swcGJGcXd6a2U5dnZ1U0hmZ0hoYitTNGR6WWQ4SWRDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.5/Steamilae_0.6.5_x64-setup.exe"
     }
   }
 }
