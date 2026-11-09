@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "Succès en jeu d’ESO, hauts faits et lancement de FFXIV, fenêtre de tous les succès avec les cachés à révéler, actualités plus compactes.",
-  "pub_date": "2026-11-09T11:42:28Z",
+  "version": "0.6.1",
+  "notes": "L’activité de tes contacts Steam dans Communauté, barre « Jouer » plus compacte, succès en jeu d’ESO et FFXIV avant les actualités.",
+  "pub_date": "2026-11-09T12:13:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFMrMXY4MDZweEpnVStsWFl6eml5c1pIT0V2WGh3b3JsZE1DRmZZK2dlWHNnZGVWS01DVUlqTFZMa2NvYlA0RVB2MmVPMkpsb0NiaUhzVVVldTFtOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0NTI5CWZpbGU6U3RlYW1pbGFlXzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMAoyd0N5bDhTdVM5YVZ1RHpZQndqTDI2cjlza1VKT3NLK1NEb2NlUjI2WUhxL041TnpJVjg4azBzdXVqcGRUV3lIZGljbVJFSVZGK3BBRmRIVkdIRDdDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.0/Steamilae_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFErU2lERHE4Y1pSK1FMaVdETTBBOStTbHNoaXhQMVpNOEpLSktSeGtWUkNBQnhtbkp5dmwrSS9CcEhxTHBxNHpjWG45c1Bwd2xVdThrSW84bFpsamdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2MzYzCWZpbGU6U3RlYW1pbGFlXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQo2dTl6YkJlbklwbjZnd3FvREl5b0V2OWVrRjlKYnE1MW96enJwbDNhNEJpYmxtQlRNUm5FVjJwWjJWeUt1Vmd1YlptL2tjZ1JESDc1MjBxZ081cW9EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.1/Steamilae_0.6.1_x64-setup.exe"
     }
   }
 }
