@@ -1,11 +1,11 @@
 {
-  "version": "0.6.5",
-  "notes": "Communauté plus vivante : activité de tes contacts en tuiles illustrées, contacts en jeu, chiffres et jeux en vogue.",
-  "pub_date": "2026-11-09T21:32:28Z",
+  "version": "0.6.6",
+  "notes": "Jeu jouable dès la fin du téléchargement, dernier jeu lancé en tête des récents, et ajouts de la maquette (boutique, bibliothèque, communauté).",
+  "pub_date": "2026-11-10T18:54:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFhON3NsRnVBN0FVa1FIVncwYUdIM0tUek5EelVNZkFYZW9tRUwwQ3ZMUjNFdzViZHZ2M1ZkdEhvV3R5ejA0bkk1dktjaVZDQi9yMVFMLzgrTUw4d1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU5OTMwCWZpbGU6U3RlYW1pbGFlXzAuNi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNQphajNQNW1pcEs0VWdEUnNTOGQzQTZScENkV2VTOXlYVEpiSW16UGRHQUU5bVVaOXZIbUZCa0swcGJGcXd6a2U5dnZ1U0hmZ0hoYitTNGR6WWQ4SWRDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.5/Steamilae_0.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdSM2NUdVpuQ2JXUHFZYlhDcitJSzRVWVh5UHUwV0tDMElvTDlrU0RXLzhwV3BQRHhjWUloL2twaGE2ci9sNEJ1K3JydzhuT3NCYURDQkFYYWtwd0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM2ODMyCWZpbGU6U3RlYW1pbGFlXzAuNi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNgpRZnlUbHhTUTV5c2JuNVdZaGVjSmNnd1dyRXZPUmdoTGRtcUltWFByRFRVbE1GbEFPc0RTYmh1N29SOFhNVW5PWk9nbkpsOW5JZllCYmNnMmpidHRBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.6/Steamilae_0.6.6_x64-setup.exe"
     }
   }
 }
