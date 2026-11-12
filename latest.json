@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "notes": "Insignes 100 % à la taille du ruban Steam et jaquettes des jeux hors Steam mieux choisies.",
-  "pub_date": "2026-11-12T14:33:18Z",
+  "version": "0.7.9",
+  "notes": "Jaquettes IGDB pour les jeux hors Steam (à relier dans Paramètres › Comptes avec ton application Twitch).",
+  "pub_date": "2026-11-12T14:55:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGRzT3J3YmRJQ2Jac0FrNlhtd2d2Wno4Z2JER1JLV2NMWEFsK1RhRFhCdDBsVmFaR0l2S3VjV0o1SE4vSk1WbmV1Sm9ucFZZU21UcW1qd0VDRmJDOVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzOTc5CWZpbGU6U3RlYW1pbGFlXzAuNy44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuOApFdk1KL09LY0JMdGRoRlg3R28xMjJ3WHdIeFYxU28zU2xSSTZLSjZEbFl2enFWSVR2NzhybDRUS25vQzcyUGcyaGxJdWJQa0doWit5TDNBM1lOMTlCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.8/Steamilae_0.7.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFl2NTFaN0Y1cWluRThzcHpVN0k0ZUM4MGwwMnI2NDVud2Q4TExOWVZPWWJGcDM3NWFZMy9RZlBRQWd6RitRV2NPa21IQnFYNnlCaTJ1eTRML2sxa0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk1MzEyCWZpbGU6U3RlYW1pbGFlXzAuNy45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuOQphODU0WTM0Y1o2VWROV3BBbm1YYXh3c3dFR295d1NOZFZyMnFWYWxwaiswLzRjcUMrbVM2cnhBTmNOaFBXRTVVa3IyZWF5ZGV6RUhJMmVxWXFzcjREZz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.9/Steamilae_0.7.9_x64-setup.exe"
     }
   }
 }
