@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "GOG, Xbox et Ubisoft Connect dans ta bibliothèque : jeux installés, comptes GOG et Xbox, succès, profil par plateforme.",
-  "pub_date": "2026-11-12T07:41:00Z",
+  "version": "0.7.1",
+  "notes": "Tes jeux et trophées PlayStation, et les images GOG / Xbox qui s’affichent.",
+  "pub_date": "2026-11-12T07:58:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGVybkg4bHFkZkQwd28ydktLbEhwamFYSzV1b1U5MTg3WVYyNGhtWnhyc25DdlhTdzBaNWNxTllyTE9qc200d3hTRjI4anBzeGE0YnpoWGNiK1dPaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY5MjM5CWZpbGU6U3RlYW1pbGFlXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApDSG5nZG1yNlB1Zmk3K0lJYnRGekppZWRIaHM0YnpFQ1FIQnA5bGV5bTV4VVAvV1lsaUJTYWdydVhPc0tRbEZMTGk3UnF6M2dHcnVReDJLaThuWCtDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.0/Steamilae_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFFnRjhNQnV0SU12bkxCaWh4OWRrR2hwVmRscTRjdDgxT3ZHdEY4ejJPbWkxSkNzYlVmVU9mRVRPVWM5SnJWOEFiclM0eXI4N3RjM0EzUUJPNTFLQmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcwMjcyCWZpbGU6U3RlYW1pbGFlXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQpZcm1HR3B3bGlQWFJLWWtOYnUxQjd6VlprWmpZYmYyVHNzUHBmQ2JpcmQyeGFsdkc5MGI4ZWZnYUo1NnNkcW9ZdXc5Rm1iZ1E2YnIrMXdtOEo3TUNBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.1/Steamilae_0.7.1_x64-setup.exe"
     }
   }
 }
