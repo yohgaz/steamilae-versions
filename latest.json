@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "Tes jeux et trophées PlayStation, et les images GOG / Xbox qui s’affichent.",
-  "pub_date": "2026-11-12T07:58:10Z",
+  "version": "0.7.2",
+  "notes": "Rubrique Comptes, compte Ubisoft Connect, jeux Nintendo Switch, et des mises à jour automatiques détectées sans retard.",
+  "pub_date": "2026-11-12T08:24:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFFnRjhNQnV0SU12bkxCaWh4OWRrR2hwVmRscTRjdDgxT3ZHdEY4ejJPbWkxSkNzYlVmVU9mRVRPVWM5SnJWOEFiclM0eXI4N3RjM0EzUUJPNTFLQmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcwMjcyCWZpbGU6U3RlYW1pbGFlXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQpZcm1HR3B3bGlQWFJLWWtOYnUxQjd6VlprWmpZYmYyVHNzUHBmQ2JpcmQyeGFsdkc5MGI4ZWZnYUo1NnNkcW9ZdXc5Rm1iZ1E2YnIrMXdtOEo3TUNBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.1/Steamilae_0.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFEvWFlXNUdXYWo3MXdCdWVKdGpnb2E5dWNsczZEM1dCTDhsb1BWTFlhN1VMUWkxZWdETTNERGNVQUJSQ3c3OThaOGh2eTdMMXRsMTZzMDNvZWpzTEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcxODQzCWZpbGU6U3RlYW1pbGFlXzAuNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMgo3b1JQamVRRDVoV213QmRvbTFaN1VOaW9vTS9pK0hJSDFRWHRPN29VQjhybitMYjVpNWkrS09aOWlFSWs2TEt4MkRMOUNvc2xMZnA0eUhJZ2RiMW5DQT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.2/Steamilae_0.7.2_x64-setup.exe"
     }
   }
 }
