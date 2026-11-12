@@ -1,11 +1,11 @@
 {
-  "version": "0.7.11",
-  "notes": "Meilleure reconnaissance des titres de jeux hors Steam (chiffres romains, accents, suites) pour retrouver leurs jaquettes.",
-  "pub_date": "2026-11-12T15:40:39Z",
+  "version": "0.8.0",
+  "notes": "Profil des contacts Steam dans l’application et guides de la communauté (aussi dans l’overlay Ctrl+O).",
+  "pub_date": "2026-11-12T19:51:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGVybC92UWdJYU1KTXdRR1YxaFQwZVBxa2lEZzlDTERhOGtJVkpZbWhLMTc0N0VVMm9yYVJwVWFGMkE0ajkwS1I1RDUyckNiVUc1UnlvenJvMDNMOGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk4MDE0CWZpbGU6U3RlYW1pbGFlXzAuNy4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC43LjExCnhrc1pLQ3pMd2gweTFWRjBLWlNiRHJjTTV4L0x5OHpmZFQxVlBnK2xNTFk2RFJIUFdETWdMS2JCT0pMQ3N0VnZOLzU3dmF2Y0xoSDMvekZKQWtBWUFnPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.11/Steamilae_0.7.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpGN1p5QkhVWTZJelRDU0hNalN5bG5zTTk4R1U4YldOUzRwcW5SMlhidWpGNGJIZ1ozZ3E3bzB0MUpOcVJwcUZaT3BrQXpWSkR2T0ZmbGFPT0Nza1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTEzMDU1CWZpbGU6U3RlYW1pbGFlXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApXdmk0VXdEVHlkS3gyNnNLVXNYQkVidlJsY1dQaXN0VGovcU5CeUxaZExyQWlJQk8xakFJR1lvV3dDSklTM2dDeG1nMGlKWkpoT1NYUTJhR2gweUJDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.8.0/Steamilae_0.8.0_x64-setup.exe"
     }
   }
 }
