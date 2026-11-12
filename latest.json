@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "notes": "Temps de jeu Ubisoft Connect lu depuis ton compte.",
-  "pub_date": "2026-11-12T14:04:11Z",
+  "version": "0.7.6",
+  "notes": "Marque 100 % PlayStation et Xbox aussi sur la page du jeu et le profil.",
+  "pub_date": "2026-11-12T14:11:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZVOElPSWRGMEYxOUZlcWV3eE9hR3lUQlV5UmtRY2tWc2ZYQmpxanJmdG1CMVovY0Y5elUzdUx4c1Z6bndFcnk1TkhwSnZoYWQyNUtndWFIbVdPYkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkyMjM1CWZpbGU6U3RlYW1pbGFlXzAuNy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNQoxYTZKZFMyNjlZRWN3aHRnK2JlODZwS2syUHUwQ0ZtdWtla2VFcWxFdHd6cTRYT2hxUzdyMTZaeGNIY1lXSnVmTUlTNUtOTmVFcHJmYmQ0ZkpGeUNDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.5/Steamilae_0.7.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFVDbnJPazdLZ2QrUHV3c1NBUHM1NXFzaElRTk9TRnU0L01kWHJOTnQ0RjVSQzdVb2pMa1FDZEZxZnM0dXcyOVA1K281V2hUaXArVWxwaG1qaTU4cXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkyNzAwCWZpbGU6U3RlYW1pbGFlXzAuNy42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNgpyRTZhdTZUcGZBbDFPSVo4cG11bi81WnY2bFdxbTFxSU81cmJBOGJCWGZBT0tkYTgrY3pEMTVvekEwank1ZDJtRmlDVCtpdWE4MkdRQkZZWUdXQS9EQT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.6/Steamilae_0.7.6_x64-setup.exe"
     }
   }
 }
