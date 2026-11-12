@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "notes": "Connexion Ubisoft Connect réparée (page introuvable) et lien nxapi-auth qui s’ouvre.",
-  "pub_date": "2026-11-12T08:43:25Z",
+  "version": "0.7.4",
+  "notes": "Marque « 100 % » par plateforme (platine PlayStation, médaille Xbox), connexion Ubisoft réparée, lien nxapi-auth.",
+  "pub_date": "2026-11-12T08:50:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZHamRaSThQWndqTHk2Lys1UDlwUzhrU2UvbzJWYkcyYWNybWd0T3N4MDhSTnl1RGF6Tmw3clI0NTdrYVE0NytzRHV3NFR2ZThINXQvZTRacTB4bmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcyOTg5CWZpbGU6U3RlYW1pbGFlXzAuNy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMwppZGJsQU10QXp4MllVcWo0alNwN3cyTllSUEZuK3pydnpjZWdNc2dPLzNOeTZNdW5OTUtUWGNuNDM3Zm9oVjdKb2o5Zm01ekRMOEdNcGVkVS9HZWZEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.3/Steamilae_0.7.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpnWnV0RmVxZ1hRZWFDRXY4dHp0Vm9QWksrbUVrbStNeUR2THY0MGp6N2hRRzJDTlBGRVh2NHFjelVEcWh2NzBMRzFCWHMvbzBqS0tDNE9xZ29zZ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDczMzk5CWZpbGU6U3RlYW1pbGFlXzAuNy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNApzeFBOSXhNN2RiSW1pdVNrTVdLbWNNaU1wUE5NRWl4V25ab2RrV0xtbHlPcllITHVERm1nM1U5SFFoM0VCeEM4NEpscDg2NnFsU1hLWTg1QlRsWlJCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.4/Steamilae_0.7.4_x64-setup.exe"
     }
   }
 }
