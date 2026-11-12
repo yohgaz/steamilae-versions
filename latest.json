@@ -1,11 +1,11 @@
 {
-  "version": "0.7.6",
-  "notes": "Marque 100 % PlayStation et Xbox aussi sur la page du jeu et le profil.",
-  "pub_date": "2026-11-12T14:11:58Z",
+  "version": "0.7.7",
+  "notes": "Trophée platine PlayStation et succès mythique Xbox (vraies images) pour les jeux à 100 %.",
+  "pub_date": "2026-11-12T14:18:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFVDbnJPazdLZ2QrUHV3c1NBUHM1NXFzaElRTk9TRnU0L01kWHJOTnQ0RjVSQzdVb2pMa1FDZEZxZnM0dXcyOVA1K281V2hUaXArVWxwaG1qaTU4cXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkyNzAwCWZpbGU6U3RlYW1pbGFlXzAuNy42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNgpyRTZhdTZUcGZBbDFPSVo4cG11bi81WnY2bFdxbTFxSU81cmJBOGJCWGZBT0tkYTgrY3pEMTVvekEwank1ZDJtRmlDVCtpdWE4MkdRQkZZWUdXQS9EQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.6/Steamilae_0.7.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGVBc2RmL0hWWWdyQVVlKytwNWtOOWhsZ1U5YnVBb3lnMVUrR1NLQ2RUSnRCdENpUVl6UEo1OTRCc2trMFgvVHBBZWFVZTJrNG0xZXU0K2k5ZXJidEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzMDYzCWZpbGU6U3RlYW1pbGFlXzAuNy43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNwo1bGxDSXR3WkhqK3JHbmhkV3F2OEZQTS9MNkp2NnZSNWt1QnJRbzVCdm5ucHlUNzhiOFM1U1VKVnd3anZ6Y2VwZmxjQUhmc0NoR2VkTDdyWmhQMVdEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.7/Steamilae_0.7.7_x64-setup.exe"
     }
   }
 }
