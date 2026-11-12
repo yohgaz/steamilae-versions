@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "notes": "Jaquettes IGDB pour les jeux hors Steam (à relier dans Paramètres › Comptes avec ton application Twitch).",
-  "pub_date": "2026-11-12T14:55:36Z",
+  "version": "0.7.10",
+  "notes": "Les jaquettes IGDB sont cherchées pour tous les jeux hors Steam, en arrière-plan, avec un bouton « Actualiser les jaquettes ».",
+  "pub_date": "2026-11-12T15:28:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFl2NTFaN0Y1cWluRThzcHpVN0k0ZUM4MGwwMnI2NDVud2Q4TExOWVZPWWJGcDM3NWFZMy9RZlBRQWd6RitRV2NPa21IQnFYNnlCaTJ1eTRML2sxa0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk1MzEyCWZpbGU6U3RlYW1pbGFlXzAuNy45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuOQphODU0WTM0Y1o2VWROV3BBbm1YYXh3c3dFR295d1NOZFZyMnFWYWxwaiswLzRjcUMrbVM2cnhBTmNOaFBXRTVVa3IyZWF5ZGV6RUhJMmVxWXFzcjREZz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.9/Steamilae_0.7.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFFReXdhd25CZEUrdTRxajZFd2dpdkJOYjI0dXhkUGRPcnZlK2RiZ1JpREZ6ZkxuMVk2SDI1Lzg0SjlheFArd2FJWGZ0b0RURUl6WHRLS0lnLzRoWUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk3Mjg0CWZpbGU6U3RlYW1pbGFlXzAuNy4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC43LjEwCkdNL05McFRWNHRmSGZsUVh4TWx1eXRKTE1ETktWamZDT0hWTXhrMVdHRzNsUGN6UzJudjFDM0hBVzVPNnZrRU1zblJuaXRlODdVeVozaTNCelZMZ0JnPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.10/Steamilae_0.7.10_x64-setup.exe"
     }
   }
 }
