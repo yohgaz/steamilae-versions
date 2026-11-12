@@ -1,11 +1,11 @@
 {
-  "version": "0.6.7",
-  "notes": "Menu Gérer des jeux (fichiers, vérification, propriétés, désinstallation), joueurs en ligne, DLC, jeux cachés, raccourcis Steam.",
-  "pub_date": "2026-11-10T19:06:33Z",
+  "version": "0.6.8",
+  "notes": "Alertes d’amis bien plus rapides : statuts relus toutes les 10 à 20 secondes.",
+  "pub_date": "2026-11-12T07:17:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFJLb3hCWlJydHlsSXRVMm95OEI4UlJoNlZ3amU0U0wvZmJhZldCeDkrYVZrcTdzY1NkbU1vcExZNDNFcElaRkYxeFc5NDVlYk1NQTRQS0FaaTVLcndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzM3NTc0CWZpbGU6U3RlYW1pbGFlXzAuNi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNwpqUTNsdkd0Q1BJS1V3RjA4OXFQTzdFcmFqMkFJdEo5UXFLU3o1NkxzcmpMRTlidWFWN0s2a3o5RXA5K1UwdlNmdmI4TnI5UVQxV3pWOHFGWUtHcEZEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.7/Steamilae_0.6.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGJWcUcrSkM5am9renhyTDZpRHdMaU1wWTJ1TGxJMXpTNWxEaFdYbEx2YzhPdjczOHR5bjFuTXlLa1YxTU91SlhJL082ZlNITVR6VGd0Tm4xTlY0ZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY3ODA3CWZpbGU6U3RlYW1pbGFlXzAuNi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuOApndDhtN1RjWHlCK3JJei9sTWZHQTRPT1ZnLzdVYnlFVXpXYmJDTXYyTCs3MGpSWGlUeUg1VEM2Z3JDUEJCbWU2c2phN3B6YWFoeFkrcHdoZjBVMVlEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.8/Steamilae_0.6.8_x64-setup.exe"
     }
   }
 }
