@@ -1,11 +1,11 @@
 {
-  "version": "0.6.8",
-  "notes": "Alertes d’amis bien plus rapides : statuts relus toutes les 10 à 20 secondes.",
-  "pub_date": "2026-11-12T07:17:08Z",
+  "version": "0.7.0",
+  "notes": "GOG, Xbox et Ubisoft Connect dans ta bibliothèque : jeux installés, comptes GOG et Xbox, succès, profil par plateforme.",
+  "pub_date": "2026-11-12T07:41:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGJWcUcrSkM5am9renhyTDZpRHdMaU1wWTJ1TGxJMXpTNWxEaFdYbEx2YzhPdjczOHR5bjFuTXlLa1YxTU91SlhJL082ZlNITVR6VGd0Tm4xTlY0ZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY3ODA3CWZpbGU6U3RlYW1pbGFlXzAuNi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuOApndDhtN1RjWHlCK3JJei9sTWZHQTRPT1ZnLzdVYnlFVXpXYmJDTXYyTCs3MGpSWGlUeUg1VEM2Z3JDUEJCbWU2c2phN3B6YWFoeFkrcHdoZjBVMVlEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.6.8/Steamilae_0.6.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGVybkg4bHFkZkQwd28ydktLbEhwamFYSzV1b1U5MTg3WVYyNGhtWnhyc25DdlhTdzBaNWNxTllyTE9qc200d3hTRjI4anBzeGE0YnpoWGNiK1dPaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY5MjM5CWZpbGU6U3RlYW1pbGFlXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApDSG5nZG1yNlB1Zmk3K0lJYnRGekppZWRIaHM0YnpFQ1FIQnA5bGV5bTV4VVAvV1lsaUJTYWdydVhPc0tRbEZMTGk3UnF6M2dHcnVReDJLaThuWCtDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.7.0/Steamilae_0.7.0_x64-setup.exe"
     }
   }
 }
