@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "Profil des contacts Steam dans l’application et guides de la communauté (aussi dans l’overlay Ctrl+O).",
-  "pub_date": "2026-11-12T19:51:30Z",
+  "version": "0.8.1",
+  "notes": "Mode en jeu (Steamilaé se range pendant la partie et revient à la fin), FFXIV retrouvé tout seul, alertes récentes refaites, amis d’un jeu corrigés.",
+  "pub_date": "2026-11-19T15:07:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpGN1p5QkhVWTZJelRDU0hNalN5bG5zTTk4R1U4YldOUzRwcW5SMlhidWpGNGJIZ1ozZ3E3bzB0MUpOcVJwcUZaT3BrQXpWSkR2T0ZmbGFPT0Nza1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTEzMDU1CWZpbGU6U3RlYW1pbGFlXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApXdmk0VXdEVHlkS3gyNnNLVXNYQkVidlJsY1dQaXN0VGovcU5CeUxaZExyQWlJQk8xakFJR1lvV3dDSklTM2dDeG1nMGlKWkpoT1NYUTJhR2gweUJDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.8.0/Steamilae_0.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZxeGxlbkZsclhsOVNHNm0vcElsb1ZZTnhiaVF1NWZIL0F5dExIcWFpMXJWaEljZkpxQjliZUpWenZFMnNqcW1VT2JzVGQzL1dWS2FENUt1eTgzakE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAwNzg1CWZpbGU6U3RlYW1pbGFlXzAuOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMQpKMHVmQTJ6RVlFSVBwOXMwK0U4RHcvS0h0YWFNMHVzZTFROWxtUFNuWTJSVm1JM3hyb0RPU05Td2RiNHJ0Y3hpRXpuQjVoczB6S0hSanF2enJVbUVDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.8.1/Steamilae_0.8.1_x64-setup.exe"
     }
   }
 }
