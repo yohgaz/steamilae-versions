@@ -1,11 +1,11 @@
 {
-  "version": "0.8.2",
-  "notes": "Activité des contacts : cartes compactes, un clic ouvre une fenêtre avec tout le détail.",
-  "pub_date": "2026-11-19T15:26:33Z",
+  "version": "0.9.0",
+  "notes": "Cinq jeux favoris dans la bibliothèque et journal du site local dans l’overlay.",
+  "pub_date": "2026-11-22T19:46:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdpaVQrRk9CR3BXMTdxMlNoZnhvTmQ0aFVTTEFFSXFEeTBvdGVQcnJkOFlWZlcxbzNUU1ZrU1ZJanl5LzhwQU5ieGFSWS9tL3NhTHQ4dmZiTFBlelFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAxOTYyCWZpbGU6U3RlYW1pbGFlXzAuOC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMgpPTDNweWdLNHhrOVBjM2pzb3VrVDdGNWdCRmdtblJvOVBxUXRUZmVZS1JUQURPWjV1TU5yamlGU2tLK3lFcTBmTENPMmR6UWMyVzQxaXF6V0xleTBDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.8.2/Steamilae_0.8.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGFrdS9YQWI2U2lWRklGc1QydjZKNTNwWnlzaG9YSTdrbHJMekNFV0JjTENSdkpncXRpVkc4T1hkZGxtRHFQSFlzbThMaVIreFZpS3BpbkZZMVZ2UndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzc2Nzg1CWZpbGU6U3RlYW1pbGFlXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApCdUVXbnFjdVhCd20waEtoeEs5TXloWTFBZkIwckpKOHJxSU05QzV0TjlVTEtMZFNwTjlBTDBla0QvbzlRWWk4N1BZbjB1KzFVVnF2cGVlMjBnTEtCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.9.0/Steamilae_0.9.0_x64-setup.exe"
     }
   }
 }
