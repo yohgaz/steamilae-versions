@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "Cinq jeux favoris dans la bibliothèque et journal du site local dans l’overlay.",
-  "pub_date": "2026-11-22T19:46:46Z",
+  "version": "0.9.1",
+  "notes": "Barre de progression des succès sur les tuiles et les favoris, avec les succès en jeu d’ESO et de FFXIV.",
+  "pub_date": "2026-11-22T19:59:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGFrdS9YQWI2U2lWRklGc1QydjZKNTNwWnlzaG9YSTdrbHJMekNFV0JjTENSdkpncXRpVkc4T1hkZGxtRHFQSFlzbThMaVIreFZpS3BpbkZZMVZ2UndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzc2Nzg1CWZpbGU6U3RlYW1pbGFlXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApCdUVXbnFjdVhCd20waEtoeEs5TXloWTFBZkIwckpKOHJxSU05QzV0TjlVTEtMZFNwTjlBTDBla0QvbzlRWWk4N1BZbjB1KzFVVnF2cGVlMjBnTEtCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.9.0/Steamilae_0.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFNMWGpsZU10cXJ5cHN3NVdURkJqREdaaHNTbFphNE42K2FxNWJLc3lKR05qNW1kbWl0U3ZzMDVhOTlTb0U2OGJ4c0hMemxvVFpUQlQxbS9qWDdvWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzc3NTUyCWZpbGU6U3RlYW1pbGFlXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQpsNkoxTWFPYTRUMU91Z1ZZYnJzbU5oYzlvQlMzc2l4cVZISzNBRko5ZTk3dEV6MllXcnQrT3pDN0ZsbzJKYXQzSFRkWTI5NkIxeU5iWnM2VHVjdHlDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.9.1/Steamilae_0.9.1_x64-setup.exe"
     }
   }
 }
