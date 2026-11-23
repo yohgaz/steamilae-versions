@@ -1,11 +1,11 @@
 {
-  "version": "0.9.2",
-  "notes": "Jeux sans succès clairement indiqués (plus de faux message d’erreur), lancement de jeu qui ne fige plus l’appli, logo des favoris et photos de notifications corrigés.",
-  "pub_date": "2026-11-23T13:25:46Z",
+  "version": "0.10.0",
+  "notes": "Jeux Riot (League of Legends, TFT, VALORANT, Runeterra) dans la bibliothèque et fusions d’objets TFT dans l’overlay.",
+  "pub_date": "2026-11-23T21:48:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdlQXJvMUFESHNDaUZxT0VqK25kT055SGtrMVdXam1EcUhYNEs2TkMyL3h1L3dqZllLVVNRUXFZOHRkRjNxQURiOVA3RGc3UmNSTG5EU3NmN09nQ0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQwMzE1CWZpbGU6U3RlYW1pbGFlXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgptQ3g0MWttOUZEdkt0QUlVNUtWWWUvUExBd3ZXZk5JZGFhbERRdGNuRktJdDFIRUxoRmFvL1htNEFLY282emsrYmh4bHkrb0pyZFRxWnVuQUt3NUdBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.9.2/Steamilae_0.9.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGFOMzJ6c2hsWlBibkJuUXhXSnpFbHpWOVpwM2FROHNsQzdXWEZPV2JMbVE4SFg1NUszbzZ1RkNyNENQOUFNL3NVU1lad0RIaEJkWndnTlVZM2QrcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwNDg2CWZpbGU6U3RlYW1pbGFlXzAuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMC4wCmx3Z09pblhqVjRNUGR1dGZFc3JIU04wTWtORWVBQ2RsVEVlWjdpZ0NYRkVzWFdqcU1ENU1nNFFINEdEenB0SW5LSTlVR0VtV1JscWZFL1Y3RG9LbENRPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.10.0/Steamilae_0.10.0_x64-setup.exe"
     }
   }
 }
