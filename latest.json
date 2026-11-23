@@ -1,11 +1,11 @@
 {
-  "version": "0.11.0",
-  "notes": "Compos TFT calculées avec l’API officielle de Riot, dans l’overlay (Ctrl+O) pendant Teamfight Tactics.",
-  "pub_date": "2026-11-23T21:56:47Z",
+  "version": "0.11.1",
+  "notes": "Favoris : les jeux Riot gardent le même format que les autres cartes, avec la pastille de leur lanceur.",
+  "pub_date": "2026-11-23T22:03:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFhGSWJ2VUpLM1loQmRobmp6Vm5iZ1B3MjNpekh5L1hXM0d2N2hsU3Y2Z21lSGpodm9HekdmQndKM2lQSnZDTXdXOWE3MVMvM0o5UHlmSHlKL3BMNXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwOTc5CWZpbGU6U3RlYW1pbGFlXzAuMTEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4wCk9TYkZlL0hnYkhLUHVieWNTeEt2YVlhVjRHOWVaUWxtNER2U1pML0hocHpLMFhBMmQ2RWE4V0ZibXdvaXE0N1VsQndGWnc0U1dQS2VDcXJjU1ovM0JRPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.0/Steamilae_0.11.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdnU2orMllLNzh3aC9Hd0o5UTlWNW9zcjRxR2FGbjQrMnU4eDNORitwa0Fmd05wNWl5K3IzUVhOT1lSUmNXSkxvUTBFWGZIZHZ1b3B0K3dveG1QSWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMzUwCWZpbGU6U3RlYW1pbGFlXzAuMTEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4xCjRhbnl2UXUrKzlnZkowUmhsVlFYUGNMaWJHUFprZ2VpNGxLOVZBTGd1STVjc3VIYUtSNFBaRjlwRFZzZ2NIYXpwSnR6WThQQ1dJOGJIeVNBUEVQNUFnPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.1/Steamilae_0.11.1_x64-setup.exe"
     }
   }
 }
