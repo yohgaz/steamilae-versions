@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "Jeux Riot (League of Legends, TFT, VALORANT, Runeterra) dans la bibliothèque et fusions d’objets TFT dans l’overlay.",
-  "pub_date": "2026-11-23T21:48:43Z",
+  "version": "0.11.0",
+  "notes": "Compos TFT calculées avec l’API officielle de Riot, dans l’overlay (Ctrl+O) pendant Teamfight Tactics.",
+  "pub_date": "2026-11-23T21:56:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGFOMzJ6c2hsWlBibkJuUXhXSnpFbHpWOVpwM2FROHNsQzdXWEZPV2JMbVE4SFg1NUszbzZ1RkNyNENQOUFNL3NVU1lad0RIaEJkWndnTlVZM2QrcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwNDg2CWZpbGU6U3RlYW1pbGFlXzAuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMC4wCmx3Z09pblhqVjRNUGR1dGZFc3JIU04wTWtORWVBQ2RsVEVlWjdpZ0NYRkVzWFdqcU1ENU1nNFFINEdEenB0SW5LSTlVR0VtV1JscWZFL1Y3RG9LbENRPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.10.0/Steamilae_0.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFhGSWJ2VUpLM1loQmRobmp6Vm5iZ1B3MjNpekh5L1hXM0d2N2hsU3Y2Z21lSGpodm9HekdmQndKM2lQSnZDTXdXOWE3MVMvM0o5UHlmSHlKL3BMNXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwOTc5CWZpbGU6U3RlYW1pbGFlXzAuMTEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4wCk9TYkZlL0hnYkhLUHVieWNTeEt2YVlhVjRHOWVaUWxtNER2U1pML0hocHpLMFhBMmQ2RWE4V0ZibXdvaXE0N1VsQndGWnc0U1dQS2VDcXJjU1ovM0JRPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.0/Steamilae_0.11.0_x64-setup.exe"
     }
   }
 }
