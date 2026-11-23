@@ -1,11 +1,11 @@
 {
-  "version": "0.11.1",
-  "notes": "Favoris : les jeux Riot gardent le même format que les autres cartes, avec la pastille de leur lanceur.",
-  "pub_date": "2026-11-23T22:03:13Z",
+  "version": "0.11.2",
+  "notes": "Clé Riot : copier-coller plus tolérant et messages d’erreur précis (clé non reconnue ou API TFT non activées).",
+  "pub_date": "2026-11-23T22:31:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFdnU2orMllLNzh3aC9Hd0o5UTlWNW9zcjRxR2FGbjQrMnU4eDNORitwa0Fmd05wNWl5K3IzUVhOT1lSUmNXSkxvUTBFWGZIZHZ1b3B0K3dveG1QSWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMzUwCWZpbGU6U3RlYW1pbGFlXzAuMTEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4xCjRhbnl2UXUrKzlnZkowUmhsVlFYUGNMaWJHUFprZ2VpNGxLOVZBTGd1STVjc3VIYUtSNFBaRjlwRFZzZ2NIYXpwSnR6WThQQ1dJOGJIeVNBUEVQNUFnPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.1/Steamilae_0.11.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGRjSThwR21RaUlMcVJVSlpJcExXdS9QUkRVLzFMWlU1L3pVSXpYU1pOQ2VyaGdCUVhTTnYvT1hvMzdUeXlURXFRNnVBMjY3OGxxR0xMTHlpKzNVK2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDczMDY4CWZpbGU6U3RlYW1pbGFlXzAuMTEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4yCmQvVk80SFc1OWlWaWswZUFaZEROZzFXN1M3WDErbTJkaDl5d2RnZ25HRnpDUU8wTkcxd2NGWlBFSjZMMTZvYXFGSDhyQkR2amRvMmJEc1QvVzJGYURnPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.2/Steamilae_0.11.2_x64-setup.exe"
     }
   }
 }
