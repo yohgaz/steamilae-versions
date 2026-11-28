@@ -1,11 +1,11 @@
 {
-  "version": "0.11.7",
-  "notes": "Barres de défilement fines partout : plus de flèches qui dépassent des fenêtres arrondies.",
-  "pub_date": "2026-11-28T20:45:42Z",
+  "version": "0.11.8",
+  "notes": "Barres de défilement : flèches supprimées pour de bon (réglage précédent sans effet sous Windows).",
+  "pub_date": "2026-11-28T21:11:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZIakxOT1FJMEZkZFplaU81YWxOeDVabnFzblN4OFIrb2pXbjNsbGpmbmp3NEw2VVRHN3N3TVg0OHdnVmJRM3MyZlNHSlJ0eXZ1ZTlsU2lnMGZsbHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODk4NzIzCWZpbGU6U3RlYW1pbGFlXzAuMTEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS43Ck1XRUJSQlpNK3gzV3dEVU52SVlnTFUxV0VuMmRDdXR6V25wOU5xWlhNNWtpUDdzUVdYZitTclhobWI0aXltYnZZd1M5M3ZQM3NIOC9rK2xjekh4MUJRPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.7/Steamilae_0.11.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFpTN1hVZ0dZVG9FWWFzREkrUEFXeEx6Q0dzc1IzVHkxM2FzN0xmaUc5TDRrUGJIUWxtZGlaMmEyWkJjblNOa0hKczZFVi95WWZJR0RRckRjdnQ2dHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1OTAwMjY2CWZpbGU6U3RlYW1pbGFlXzAuMTEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS44Ck1YaUxhT1I0ZjJxdVNjSVA1QVA1ZStVZWxkLzBIUjF2SnovMm9jTXMyVzFHSkJEK1hadms2TTZtN2FPaGxCVU5UTFlVajVWQWlDNWtIVE9EK2dlTURRPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.8/Steamilae_0.11.8_x64-setup.exe"
     }
   }
 }
