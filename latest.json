@@ -1,11 +1,11 @@
 {
-  "version": "0.11.3",
-  "notes": "Liste d’amis d’un jeu : les pseudos longs sont coupés proprement et ne cachent plus le bouton Offrir.",
-  "pub_date": "2026-11-26T19:16:43Z",
+  "version": "0.11.4",
+  "notes": "Succès cachés : révélables aussi dans l’overlay, et ce qui est révélé le reste partout et d’une partie à l’autre.",
+  "pub_date": "2026-11-28T11:12:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFRYRTlzNDdOYmcybTVyTGpEYU1DbWtCL00ycVBsOTdEaXhubStlWHMyUTc2WUxnZmMrWmM3UHlmamdabDh0dWZ5WkdBQksvVWowbkUxVmFGYzhCNndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIwNTcyCWZpbGU6U3RlYW1pbGFlXzAuMTEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS4zCndXQWRVekNWSXlMeVNKVTZUbHEwaDU2and5ZFY2Z09UZU9WMTFRbkpDTXE1US9BQ052WXhWWmdPME5kSGVOS3pyZXZobW5wcjFSOUQ3Q1JQaHZlSUJnPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.3/Steamilae_0.11.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFkwMWw2UjlOY2tDQ1IrSDBYcm1qdUlQYXNpMytERTZkbFkxeXFJUS9ia05HWHo0Y2xURkNtZGNOejVLNnI5LzVoVjNzNUZ5clF2NUlTd2cyMHMzU0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY0MzQ4CWZpbGU6U3RlYW1pbGFlXzAuMTEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS40CktoVmc5cS9HYXpqV0tHQzBZZGRMTFJNcWtEalpYdTdOZjljOUZ5djBEYlZVbFJSOGNvdTJDREZtOEN2TDU1MEdvcTF0WFhUaEQvazEyaEtneVZTOUJ3PT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.4/Steamilae_0.11.4_x64-setup.exe"
     }
   }
 }
