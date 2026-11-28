@@ -1,11 +1,11 @@
 {
-  "version": "0.11.4",
-  "notes": "Succès cachés : révélables aussi dans l’overlay, et ce qui est révélé le reste partout et d’une partie à l’autre.",
-  "pub_date": "2026-11-28T11:12:48Z",
+  "version": "0.11.5",
+  "notes": "Succès en temps réel : un succès débloqué en jeu apparaît tout de suite comme obtenu dans l’appli et dans l’overlay.",
+  "pub_date": "2026-11-28T11:21:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFkwMWw2UjlOY2tDQ1IrSDBYcm1qdUlQYXNpMytERTZkbFkxeXFJUS9ia05HWHo0Y2xURkNtZGNOejVLNnI5LzVoVjNzNUZ5clF2NUlTd2cyMHMzU0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY0MzQ4CWZpbGU6U3RlYW1pbGFlXzAuMTEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS40CktoVmc5cS9HYXpqV0tHQzBZZGRMTFJNcWtEalpYdTdOZjljOUZ5djBEYlZVbFJSOGNvdTJDREZtOEN2TDU1MEdvcTF0WFhUaEQvazEyaEtneVZTOUJ3PT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.4/Steamilae_0.11.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFJ3bCs4N2tlRUVGQ1dKd1NONUJsdk5lQjR4dm04WWZuUnRSZ2JXU09vaFFkRzdHZzRRcisyNG5MWXhoMjBiVjFuRnRKS01xZHlqaTVhb3VvL3VkVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY0ODYzCWZpbGU6U3RlYW1pbGFlXzAuMTEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS41Ck5vRi9Ub0VxU1lOR0pUNW9QcTI3akR3RHozVDA0NjdjRHQrYVlIYjJ2eitRaFZhQXY1R0xpbXR6cXoyb2psNzJSRmttYy9xU3pORVBxakRROWh2SENRPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.5/Steamilae_0.11.5_x64-setup.exe"
     }
   }
 }
