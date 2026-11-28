@@ -1,11 +1,11 @@
 {
-  "version": "0.11.6",
-  "notes": "Succès : un succès obtenu à l’instant s’affiche tout de suite sur la fiche du jeu, sans attendre que Steam mette sa page à jour.",
-  "pub_date": "2026-11-28T13:46:45Z",
+  "version": "0.11.7",
+  "notes": "Barres de défilement fines partout : plus de flèches qui dépassent des fenêtres arrondies.",
+  "pub_date": "2026-11-28T20:45:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeFhyVzd3VmpEVjJ4eXFJVDRiclBQYzZqSHdiQWRVdUFPY0NqRU5OelRIemhLdWVhTVFuR2s3eGdLYWNyNVRQVXE1Yk1CM2xMMWxyUGY5UlJxbUd5ZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODczNTgzCWZpbGU6U3RlYW1pbGFlXzAuMTEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS42CnVtMjdhSHN4Ly9jRFl6NWd5M1dMaTh2MENiTnBjUEFjN2JyUHBTVGN2aVIxNGx2R1BqRjY4QmhrbVZTdEpibzZqaDlTWWhtYldkbG4vUjRUd3hMSkFnPT0K",
-      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.6/Steamilae_0.11.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdHR4ZEJhQVRyeGZIakxOT1FJMEZkZFplaU81YWxOeDVabnFzblN4OFIrb2pXbjNsbGpmbmp3NEw2VVRHN3N3TVg0OHdnVmJRM3MyZlNHSlJ0eXZ1ZTlsU2lnMGZsbHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODk4NzIzCWZpbGU6U3RlYW1pbGFlXzAuMTEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xMS43Ck1XRUJSQlpNK3gzV3dEVU52SVlnTFUxV0VuMmRDdXR6V25wOU5xWlhNNWtpUDdzUVdYZitTclhobWI0aXltYnZZd1M5M3ZQM3NIOC9rK2xjekh4MUJRPT0K",
+      "url": "https://raw.githubusercontent.com/yohgaz/steamilae-versions/main/versions/0.11.7/Steamilae_0.11.7_x64-setup.exe"
     }
   }
 }
